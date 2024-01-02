@@ -10,4 +10,4 @@ hiết kế hệ thống mạng cho doanh nghiệp có 1 trụ sở chính và 3
 
 ## Báo cáo đồ án
 
-[Title](LeDamTuanDat_PT&TKM.pdf)
+[Báo cáo đồ án phân tích và thiết kế mạng máy tính (PDF Preview - Không cần tải về)](LeDamTuanDat_PT&TKM.pdf)
